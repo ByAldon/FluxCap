@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="250" alt="flexcaplogo" src="https://github.com/user-attachments/assets/4e00e375-020a-476d-980f-f002169721e1" />
+
 # ⚡ FluxCap
 
 > **An unofficial, community-driven, and highly customizable desktop client for the Fluxer network.**
