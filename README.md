@@ -111,6 +111,14 @@ Contributions, issues, and feature requests are always welcome! We love communit
 
 ---
 
+## Talk with us 📣
+
+We made a group on fluxer just for the FluxCap Users.<br>
+Talk here for just a chat if you need any help or if there are issues with your client.<br>
+<a href="https://github.com/Fluxer-gg/u1E0gehA">FluxCap Fluxer Group</a>
+
+---
+
 ## ⚠️ Disclaimer
 
 **FluxCap is a third-party, independent project.** It is not affiliated with, endorsed by, sponsored by, or formally associated with the official Fluxer project or its development team. "Fluxer" is a trademark of its respective owners. 
